@@ -1,2 +1,2 @@
-# ShawnBird89.github.io
+# shawnbird89.github.io
 ESIIL webpage repository 
